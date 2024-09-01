@@ -1,0 +1,29 @@
+.table {
+   width: 450px;
+   border-collapse: collapse;
+}
+
+.header {
+   background-color: black;
+   text-align: center;
+   color: white;
+}
+
+.headerText {
+   border: 1px solid black;
+}
+
+.cell {
+   font-weight: 500;
+   color: black;
+   text-align: center;
+   border: 2px solid black;
+}
+
+.backgroundGrey {
+   background-color: gray;
+}
+
+.backgroundWhite {
+   background-color: white;
+}
